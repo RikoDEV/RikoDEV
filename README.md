@@ -1,5 +1,5 @@
-### Hi there 👋
-My name is Jacek and I am a PHP and JavaScript developer.
+![tokyo](https://i.imgur.com/Xv9MXfC.gif)
+### My name is Jacek and I am a PHP and JavaScript developer.
 
 #### 📁 My personal projects
 | [👾 Poszukaj.se](https://poszukaj.se) | [💬 ANYForum.pl](https://anyforum.pl) |
