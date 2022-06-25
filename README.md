@@ -4,7 +4,7 @@
 #### 📁 My personal projects
 | [👾 Poszukaj.se](https://poszukaj.se) | [💬 ANYForum.pl](https://anyforum.pl) |
 | ------------------------------------- |:--------------------------------------:|
-| Game server list based on Laravel     | Polish forum for players.              |
+| Game server list based on Laravel     | Polish forum for gamers.               |
 
 #### 📊 Some stats
 ![rikodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikoDEV&show_icons=true)
