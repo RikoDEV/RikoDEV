@@ -1,4 +1,4 @@
-![tokyo](https://i.imgur.com/Xv9MXfC.gif)
+![aurora](https://i.imgur.com/2s8NeIV.jpeg)
 
 #### 👋 Hi! My name is Jacek.
 
